@@ -6,7 +6,7 @@ A modern and responsive calculator built using **React.js**. This project perfor
 
 ## Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 [https://your-vercel-link.vercel.app](https://react-calculator-seven-sepia.vercel.app/)
 
 ---
 
